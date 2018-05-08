@@ -15,4 +15,4 @@ Huge Integer class implemented in C++ for the Bachelors course Computer Programm
 9. isLessThan
 10. isGreaterThanOrEqualTo
 11. isLessThanOrEqualTo
-12. isZero()
+12. isZero
